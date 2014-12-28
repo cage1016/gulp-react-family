@@ -1,0 +1,15 @@
+{
+    "name": "family-example",
+    "version": "1.0.0",
+    "description": "Browersify + Gulp + React.js",
+    "devDependencies": {
+        "browserify": "~5.11",
+        "gulp": "~3.8",
+        "gulp-uglify": "~1.0",
+        "jshintify": "^0.1.0",
+        "react": "~0.11",
+        "reactify": "~0.14",
+        "vinyl-buffer": "0.0.0",
+        "vinyl-source-stream": "~0.1"
+    }
+}
